@@ -7,7 +7,7 @@ chardet==3.0.4
 idna==2.9
 idna-ssl==1.1.0
 kafka-python==2.0.1
-lxml==4.5.1
+lxml==4.6.3
 multidict==4.7.6
 psycopg2==2.8.5
 pyspark==2.4.5
